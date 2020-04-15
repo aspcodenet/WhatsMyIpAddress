@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsMyIpAddress", "WhatsMyIpAddress\WhatsMyIpAddress.csproj", "{75041E4F-0CF3-4EB4-9A83-1E2B88DC2BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75041E4F-0CF3-4EB4-9A83-1E2B88DC2BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75041E4F-0CF3-4EB4-9A83-1E2B88DC2BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75041E4F-0CF3-4EB4-9A83-1E2B88DC2BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75041E4F-0CF3-4EB4-9A83-1E2B88DC2BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB65CAD-D282-4A63-84C5-7D9302D3F1E1}
+	EndGlobalSection
+EndGlobal
